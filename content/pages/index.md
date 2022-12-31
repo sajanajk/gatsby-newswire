@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "Socialite Magazine"
 ---
 
-# Hello World
+# The Inside Story
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+Read about the latest trends that matter.
