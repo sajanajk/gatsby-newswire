@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Glass`,
+    title: `Socialite`,
     author: {
       name: `Yinka Adedire`,
       summary: `Self-taught front-end web dev. JAMStack.`,
