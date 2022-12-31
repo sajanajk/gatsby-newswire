@@ -1,7 +1,6 @@
 import React from 'react';
 import Container from './container';
 import styled from 'styled-components';
-import SocialLinks from './social-links';
 
 const Footer = () => {
   return (
