@@ -10,21 +10,6 @@ module.exports = {
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
       twitter: `yinkakun`,
-    },
-    socialLinks: [
-      {
-        name: "github",
-        url: "https://github.com",
-      },
-      {
-        name: "twitter",
-        url: "https://twitter.com",
-      },
-      {
-        name: "instagram",
-        url: "https://instagram.com",
-      },
-    ],
   },
   plugins: [
     `gatsby-plugin-styled-components`,
