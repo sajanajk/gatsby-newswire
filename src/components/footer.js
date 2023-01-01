@@ -1,12 +1,12 @@
 import React from 'react';
 import Container from './container';
-import styled from 'styled-components';
+
 
 const Footer = () => {
   return (
     <StyledFooter>
       <FooterWrapper>
-        <SocialLinks />
+        
 
         <FooterAttribution>
           Hand-crafted with love by{' '}
