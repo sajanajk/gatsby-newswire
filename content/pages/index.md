@@ -1,6 +1,6 @@
 ---
 template: "index-template"
-title: "Socialite Magazine"
+title: "Socialite"
 ---
 
 # The Inside Story
